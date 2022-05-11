@@ -1,0 +1,9 @@
+/public/
+/resources
+
+.hugo_build.lock
+hugo.exe
+hugo.linux
+hugo.darwin
+
+.DS_STORE
